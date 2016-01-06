@@ -1,0 +1,11 @@
+[21-Mar-2014 11:36:44 America/Detroit] PHP Fatal error:  Call to undefined function isMod() in /home/pkmnheli/public_html/mod/index.php on line 6
+[21-Mar-2014 11:37:01 America/Detroit] PHP Fatal error:  Call to undefined function isMod() in /home/pkmnheli/public_html/mod/index.php on line 6
+[21-Mar-2014 11:37:03 America/Detroit] PHP Fatal error:  Call to undefined function isMod() in /home/pkmnheli/public_html/mod/index.php on line 6
+[21-Mar-2014 11:37:26 America/Detroit] PHP Fatal error:  Call to undefined function isMod() in /home/pkmnheli/public_html/mod/index.php on line 6
+[21-Mar-2014 11:39:46 America/Detroit] PHP Fatal error:  Call to undefined function isMod() in /home/pkmnheli/public_html/mod/index.php on line 6
+[21-Mar-2014 11:39:50 America/Detroit] PHP Fatal error:  Call to undefined function isMod() in /home/pkmnheli/public_html/mod/index.php on line 6
+[21-Mar-2014 11:41:10 America/Detroit] PHP Fatal error:  Call to undefined function isMod() in /home/pkmnheli/public_html/mod/index.php on line 6
+[21-Mar-2014 11:41:13 America/Detroit] PHP Fatal error:  Call to undefined function isMod() in /home/pkmnheli/public_html/mod/index.php on line 6
+[21-Mar-2014 11:54:01 America/Detroit] PHP Fatal error:  Call to undefined function numSelectBox() in /home/pkmnheli/public_html/mod/ae_sprite.php on line 30
+[21-Mar-2014 12:03:30 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/pkmnheli/public_html/mod/ae_sprite.php on line 32
+[21-Mar-2014 12:03:47 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/pkmnheli/public_html/mod/ae_sprite.php on line 32

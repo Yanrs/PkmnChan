@@ -1,0 +1,47 @@
+#Options +FollowSymLinks
+
+RewriteEngine on
+#RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteRule ^(.*)$ $1.php
+
+	# ++ lets increase website speed ++
+# compress text, html, javascript, css, xml:
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+
+# Or, compress certain file types by extension:
+<Files *.html>
+SetOutputFilter DEFLATE
+</Files>
+
+<files *.php>
+SetOutputFilter DEFLATE
+</files>
+
+<files *.css>
+SetOutputFilter DEFLATE
+</files>
+
+<files *.js>
+SetOutputFilter DEFLATE
+</files>
+
+<files *.jpg>
+SetOutputFilter DEFLATE
+</files>
+
+<files *.png>
+SetOutputFilter DEFLATE
+</files>
+
+

@@ -1,0 +1,327 @@
+[26-Apr-2013 12:18:34] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnplan/public_html/rpg/asdd/index.php on line 2
+[26-Apr-2013 12:18:34] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnplan/public_html/rpg/asdd/index.php on line 2
+[26-Apr-2013 12:18:34] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnplan/public_html/rpg/asdd/index.php on line 2
+[26-Apr-2013 12:18:34] PHP Warning:  include(functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnplan/public_html/rpg/asdd/index.php on line 3
+[26-Apr-2013 12:18:34] PHP Warning:  include(functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnplan/public_html/rpg/asdd/index.php on line 3
+[26-Apr-2013 12:18:34] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnplan/public_html/rpg/asdd/index.php on line 3
+[26-Apr-2013 12:18:34] PHP Warning:  include(_header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnplan/public_html/rpg/asdd/index.php on line 4
+[26-Apr-2013 12:18:34] PHP Warning:  include(_header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnplan/public_html/rpg/asdd/index.php on line 4
+[26-Apr-2013 12:18:34] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '_header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnplan/public_html/rpg/asdd/index.php on line 4
+[26-Apr-2013 12:18:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'pkmnplan'@'localhost' (using password: NO) in /home/pkmnplan/public_html/rpg/asdd/index.php on line 8
+[26-Apr-2013 12:18:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/pkmnplan/public_html/rpg/asdd/index.php on line 8
+[28-Apr-2013 12:38:20] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pkmnplan/public_html/rpg/asdd/index.php on line 18
+[28-Apr-2013 12:39:21] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pkmnplan/public_html/rpg/asdd/index.php on line 18
+[28-Apr-2013 12:39:23] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pkmnplan/public_html/rpg/asdd/index.php on line 18
+[28-Apr-2013 12:39:40] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pkmnplan/public_html/rpg/asdd/index.php on line 18
+[28-Apr-2013 12:40:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pkmnplan/public_html/rpg/asdd/index.php on line 18
+[28-Apr-2013 12:40:56] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pkmnplan/public_html/rpg/asdd/index.php on line 18
+[28-Apr-2013 12:40:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pkmnplan/public_html/rpg/asdd/index.php on line 18
+[28-Apr-2013 12:41:01] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pkmnplan/public_html/rpg/asdd/index.php on line 18
+[02-May-2013 12:26:19] PHP Fatal error:  Call to undefined function  fiile_get_contents() in /home/pkmnplan/public_html/rpg/asdd/test.php on line 6
+[12-May-2013 08:30:43] PHP Warning:  Wrong parameter count for mysql_fetch_assoc() in /home/pkmnplan/public_html/rpg/asdd/test.php on line 7
+[15-Jul-2013 19:43:48 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/pkmnplan/public_html/rpg/asdd/test.php on line 4
+[15-Jul-2013 19:49:22 America/Detroit] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 82831746 bytes) in /home/pkmnplan/public_html/rpg/asdd/test.php on line 5
+[15-Jul-2013 19:49:37 America/Detroit] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 82831746 bytes) in /home/pkmnplan/public_html/rpg/asdd/test.php on line 5
+[23-Jul-2013 07:11:50 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnplan/public_html/rpg/asdd/event_test.php on line 23
+[23-Jul-2013 07:11:54 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnplan/public_html/rpg/asdd/event_test.php on line 23
+[23-Jul-2013 07:39:49 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnplan/public_html/rpg/asdd/event_test.php on line 46
+[23-Jul-2013 07:52:28 America/Detroit] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/pkmnplan/public_html/rpg/asdd/event_test.php on line 60
+[29-Jul-2013 14:15:32 America/Detroit] PHP Warning:  include(../fucntions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnplan/public_html/rpg/asdd/test.php on line 3
+[29-Jul-2013 14:15:32 America/Detroit] PHP Warning:  include(../fucntions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnplan/public_html/rpg/asdd/test.php on line 3
+[29-Jul-2013 14:15:32 America/Detroit] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../fucntions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnplan/public_html/rpg/asdd/test.php on line 3
+[29-Jul-2013 14:15:32 America/Detroit] PHP Fatal error:  Call to undefined function levelToExp() in /home/pkmnplan/public_html/rpg/asdd/test.php on line 10
+[02-Dec-2013 11:21:19 America/Detroit] PHP Warning:  include(_header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/index.php on line 4
+[02-Dec-2013 11:21:19 America/Detroit] PHP Warning:  include(_header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/index.php on line 4
+[02-Dec-2013 11:21:19 America/Detroit] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '_header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnheli/public_html/asdd/index.php on line 4
+[02-Dec-2013 11:21:19 America/Detroit] PHP Warning:  include(../footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/index.php on line 45
+[02-Dec-2013 11:21:19 America/Detroit] PHP Warning:  include(../footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/index.php on line 45
+[02-Dec-2013 11:21:19 America/Detroit] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnheli/public_html/asdd/index.php on line 45
+[02-Dec-2013 11:21:32 America/Detroit] PHP Warning:  include(../footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/index.php on line 45
+[02-Dec-2013 11:21:32 America/Detroit] PHP Warning:  include(../footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/index.php on line 45
+[02-Dec-2013 11:21:32 America/Detroit] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnheli/public_html/asdd/index.php on line 45
+[02-Dec-2013 11:21:45 America/Detroit] PHP Warning:  include(../inc/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/index.php on line 45
+[02-Dec-2013 11:21:45 America/Detroit] PHP Warning:  include(../inc/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/index.php on line 45
+[02-Dec-2013 11:21:45 America/Detroit] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../inc/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnheli/public_html/asdd/index.php on line 45
+[02-Dec-2013 11:22:01 America/Detroit] PHP Warning:  include(../footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/index.php on line 45
+[02-Dec-2013 11:22:01 America/Detroit] PHP Warning:  include(../footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/index.php on line 45
+[02-Dec-2013 11:22:01 America/Detroit] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnheli/public_html/asdd/index.php on line 45
+[03-Dec-2013 16:21:16 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 16:21:20 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 16:21:43 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 17:18:53 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 17:29:18 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 17:31:00 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 17:49:05 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 18:07:38 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 18:38:49 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 18:39:30 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 20:01:20 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 20:55:05 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 22:31:01 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 22:40:36 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 22:58:37 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[03-Dec-2013 23:29:06 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[04-Dec-2013 14:26:26 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/pkmnheli/public_html/_header.php on line 115
+[05-Dec-2013 14:15:15 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 14:15:27 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 14:15:43 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 14:25:22 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 14:38:43 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 14:54:20 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 15:08:04 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 15:41:59 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 15:50:09 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 15:59:59 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 16:00:45 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 16:01:07 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 16:01:35 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 16:01:49 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 16:16:39 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 16:22:21 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 16:22:43 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[05-Dec-2013 16:24:33 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/index.php on line 11
+[06-Dec-2013 15:25:24 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[06-Dec-2013 15:51:26 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[06-Dec-2013 16:21:52 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[06-Dec-2013 17:46:24 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[06-Dec-2013 17:50:22 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[06-Dec-2013 17:51:38 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[06-Dec-2013 18:11:06 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[06-Dec-2013 18:48:16 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[06-Dec-2013 18:57:19 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[06-Dec-2013 19:19:27 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[06-Dec-2013 19:23:07 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 12:17:27 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 12:53:39 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 12:56:17 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 12:56:39 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 13:13:32 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 13:18:41 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 14:15:34 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 14:48:43 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 14:49:26 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 14:54:30 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 15:07:46 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 15:39:32 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 15:58:44 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 16:05:12 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 16:10:50 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 16:29:35 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 16:31:00 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 17:06:57 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 17:07:24 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 17:14:39 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 17:22:53 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 17:32:28 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 17:55:36 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 17:57:20 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[07-Dec-2013 18:00:54 America/Detroit] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/_header.php on line 6
+[10-Feb-2014 10:16:30 America/Detroit] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/test.php on line 3
+[10-Feb-2014 10:16:30 America/Detroit] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/test.php on line 3
+[10-Feb-2014 10:16:30 America/Detroit] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnheli/public_html/asdd/test.php on line 3
+[10-Feb-2014 10:16:30 America/Detroit] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/pkmnheli/public_html/asdd/test.php on line 5
+[10-Feb-2014 10:16:30 America/Detroit] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/pkmnheli/public_html/asdd/test.php on line 5
+[10-Feb-2014 10:16:30 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/test.php on line 7
+[10-Feb-2014 10:16:55 America/Detroit] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/test.php on line 3
+[10-Feb-2014 10:16:55 America/Detroit] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/test.php on line 3
+[10-Feb-2014 10:16:55 America/Detroit] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnheli/public_html/asdd/test.php on line 3
+[10-Feb-2014 10:16:55 America/Detroit] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/pkmnheli/public_html/asdd/test.php on line 5
+[10-Feb-2014 10:16:55 America/Detroit] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/pkmnheli/public_html/asdd/test.php on line 5
+[10-Feb-2014 10:16:55 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/test.php on line 7
+[10-Feb-2014 10:18:00 America/Detroit] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/test.php on line 3
+[10-Feb-2014 10:18:00 America/Detroit] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/test.php on line 3
+[10-Feb-2014 10:18:00 America/Detroit] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnheli/public_html/asdd/test.php on line 3
+[10-Feb-2014 10:18:00 America/Detroit] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/pkmnheli/public_html/asdd/test.php on line 5
+[10-Feb-2014 10:18:00 America/Detroit] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/pkmnheli/public_html/asdd/test.php on line 5
+[10-Feb-2014 10:18:00 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/test.php on line 7
+[10-Feb-2014 10:18:52 America/Detroit] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/test.php on line 3
+[10-Feb-2014 10:18:52 America/Detroit] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/test.php on line 3
+[10-Feb-2014 10:18:52 America/Detroit] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnheli/public_html/asdd/test.php on line 3
+[10-Feb-2014 10:18:52 America/Detroit] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/pkmnheli/public_html/asdd/test.php on line 5
+[10-Feb-2014 10:18:52 America/Detroit] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/pkmnheli/public_html/asdd/test.php on line 5
+[10-Feb-2014 10:18:52 America/Detroit] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/pkmnheli/public_html/asdd/test.php on line 7
+[02-Jul-2014 08:55:40 America/Detroit] PHP Fatal error:  Call to undefined function cleanSql() in /home/pkmnheli/public_html/config.php on line 62
+[02-Jul-2014 08:55:45 America/Detroit] PHP Fatal error:  Call to undefined function cleanSql() in /home/pkmnheli/public_html/config.php on line 62
+[02-Jul-2014 08:55:45 America/Detroit] PHP Fatal error:  Call to undefined function cleanSql() in /home/pkmnheli/public_html/config.php on line 62
+[02-Jul-2014 08:55:46 America/Detroit] PHP Fatal error:  Call to undefined function cleanSql() in /home/pkmnheli/public_html/config.php on line 62
+[02-Jul-2014 08:55:46 America/Detroit] PHP Fatal error:  Call to undefined function cleanSql() in /home/pkmnheli/public_html/config.php on line 62
+[02-Jul-2014 08:55:47 America/Detroit] PHP Fatal error:  Call to undefined function cleanSql() in /home/pkmnheli/public_html/config.php on line 62
+[02-Jul-2014 08:55:47 America/Detroit] PHP Fatal error:  Call to undefined function cleanSql() in /home/pkmnheli/public_html/config.php on line 62
+[02-Jul-2014 09:31:36 America/Detroit] PHP Fatal error:  Call to undefined function cleanSql() in /home/pkmnheli/public_html/config.php on line 62
+[02-Jul-2014 09:31:40 America/Detroit] PHP Fatal error:  Call to undefined function cleanSql() in /home/pkmnheli/public_html/config.php on line 62
+[02-Jul-2014 09:31:41 America/Detroit] PHP Fatal error:  Call to undefined function cleanSql() in /home/pkmnheli/public_html/config.php on line 62
+[02-Jul-2014 09:31:41 America/Detroit] PHP Fatal error:  Call to undefined function cleanSql() in /home/pkmnheli/public_html/config.php on line 62
+[07-Aug-2014 11:13:09 America/Detroit] PHP Fatal error:  Call to undefined function cleanhtml() in /home/pkmnheli/public_html/user_notifications2.php on line 12
+[01-Sep-2014 21:02:28 America/Detroit] PHP Fatal error:  Call to undefined function cleanhtml() in /home/pkmnheli/public_html/user_notifications2.php on line 12
+[22-Nov-2014 02:48:20 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../etc/hosts) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:50:16 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../etc/hosts) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:50:20 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../etc/hosts) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:51:08 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../etc/hosts) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:52:20 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../etc/hosts) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:52:24 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../etc/passwd) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:53:08 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../etc/hosts) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:53:12 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../etc/hosts) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:53:16 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../etc/passwd) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:54:04 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../../etc/hosts) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:54:07 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../etc/passwd) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:54:55 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:54:59 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../etc/passwd) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:55:08 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../etc/hosts) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:55:47 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:55:50 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../../etc/passwd) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:57:08 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../../etc/hosts) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:57:47 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:58:01 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:58:38 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:58:52 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:59:30 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 02:59:43 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:00:35 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:01:26 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:02:29 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../etc/passwd) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:03:20 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../etc/passwd) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:04:12 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../etc/passwd) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:05:03 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../etc/passwd) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:05:55 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../../etc/passwd) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:06:47 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../etc/group) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:07:38 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../etc/group) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:08:30 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../etc/group) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:10:30 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../etc/group) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:11:21 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../../etc/group) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:12:13 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:14:13 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:15:05 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:15:56 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 03:17:57 America/Detroit] PHP Warning:  file_get_contents(http://www.qcivalves.com/index.php?page=../../../../../../../../../proc/self/environ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/pkmnheli/public_html/asdd/lulz.php on line 18
+[22-Nov-2014 10:17:27 America/Detroit] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/pkmnheli/public_html/asdd/lulz.php on line 11
+[22-Nov-2014 10:53:23 America/Detroit] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: No such file or directory in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[23-Nov-2014 02:01:13 America/Detroit] PHP Warning:  require(/home/pkmnheli/public_html/asddSourceQuery.class.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/pkmnheli/public_html/asdd/lulz.php on line 2
+[23-Nov-2014 02:01:13 America/Detroit] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/pkmnheli/public_html/asddSourceQuery.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pkmnheli/public_html/asdd/lulz.php on line 2
+[24-Nov-2014 04:14:17 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/a0P0q6z.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 9
+[24-Nov-2014 04:14:17 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:14:42 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/abq4mXB.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 9
+[24-Nov-2014 04:14:42 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:15:07 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aj6BRy1.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 9
+[24-Nov-2014 04:15:07 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:15:39 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aj6BRy1.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 9
+[24-Nov-2014 04:15:39 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:15:50 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/abq4mXB.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 9
+[24-Nov-2014 04:15:50 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:17:21 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/0.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 9
+[24-Nov-2014 04:17:21 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:17:25 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/0.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 9
+[24-Nov-2014 04:17:25 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:17:31 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/a3dyL98.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 9
+[24-Nov-2014 04:17:31 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:19:14 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/azLKzyj.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 9
+[24-Nov-2014 04:19:14 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:20:51 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/anXvqoB.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:20:52 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/anXvqoB.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:21:36 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aPyoKBG.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:22:11 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aqZ68EZ.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:22:14 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/apo64qW.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:22:15 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/apo64qW.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:22:16 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/apo64qW.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:22:16 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/apo64qW.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:22:19 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aMbmnqG.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:22:25 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/a49N4PQ.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:22:30 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aGVBrXw.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:22:39 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/areAQn5.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:22:43 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/a5Nw6jO.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:22:49 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aOy4EDv.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:23:00 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aGVBrXw.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:23:01 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aGVBrXw.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:23:16 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/a0P0qVX.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:23:52 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aPyo4Nn.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 10
+[24-Nov-2014 04:25:22 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 04:27:39 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aQp7G9w.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 11
+[24-Nov-2014 04:27:44 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/ad6QoQ9.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 11
+[24-Nov-2014 04:27:45 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/ad6QoQ9.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 11
+[24-Nov-2014 04:27:54 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aYpD6GN.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 11
+[24-Nov-2014 04:28:26 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/a3d03LN.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 11
+[24-Nov-2014 04:28:30 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/a8b0qje.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 11
+[24-Nov-2014 04:28:32 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/areXneB.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 11
+[24-Nov-2014 04:28:54 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aKg9QPj.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 11
+[24-Nov-2014 04:35:46 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/avZEZ7X.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:35:58 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/anX2LLV.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:36:07 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/a8bDYwZ.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:36:09 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/a4954rp.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:36:24 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aOyZ9nD.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:36:33 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aAVKGQR.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:37:41 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aj6OXAR.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:38:23 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/avZEZ7X.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:38:28 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/amL63LX.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:38:29 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/amL63LX.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:38:55 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/avZEZ7X.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:38:58 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aZW8Rop.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:39:18 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/ae3ZPXb.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:39:21 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/ag07bjr.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 04:39:33 America/Detroit] PHP Warning:  file_get_contents(http://infinigag.eu01.aws.af.cm/hot/aPyo1dK.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 12
+[24-Nov-2014 13:36:38 America/Detroit] PHP Warning:  file_get_contents() expects parameter 3 to be resource, array given in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 13:36:44 America/Detroit] PHP Warning:  file_get_contents() expects parameter 3 to be resource, array given in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 13:36:54 America/Detroit] PHP Warning:  file_get_contents() expects parameter 3 to be resource, array given in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 13:37:05 America/Detroit] PHP Warning:  file_get_contents() expects parameter 3 to be resource, array given in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 13:37:23 America/Detroit] PHP Warning:  file_get_contents() expects parameter 3 to be resource, array given in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 13:37:57 America/Detroit] PHP Warning:  file_get_contents() expects parameter 3 to be resource, array given in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 13:39:59 America/Detroit] PHP Warning:  file_get_contents() expects parameter 3 to be resource, array given in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 13:40:09 America/Detroit] PHP Warning:  file_get_contents() expects parameter 3 to be resource, array given in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 13:40:15 America/Detroit] PHP Warning:  file_get_contents() expects parameter 3 to be resource, array given in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 13:40:23 America/Detroit] PHP Warning:  file_get_contents() expects parameter 3 to be resource, array given in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 13:40:47 America/Detroit] PHP Warning:  file_get_contents(http://www.pkmnhelios.net) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 13:42:31 America/Detroit] PHP Warning:  file_get_contents(http://wndrland.pkmnjourney.net/register) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 13:43:06 America/Detroit] PHP Warning:  file_get_contents(http://wndrland.pkmnjourney.net/register) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 19
+[24-Nov-2014 13:43:54 America/Detroit] PHP Warning:  file_get_contents(http://wndrland.pkmnjourney.net/register) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/pkmnheli/public_html/asdd/lulz.php on line 19

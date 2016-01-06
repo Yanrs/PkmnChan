@@ -1,0 +1,92 @@
+/* 
+    Created on : 31 Mar, 2014, 3:03:25 PM
+    Author     : Tamil
+*/
+
+.container {
+  bottom: 0px;
+  width: 250px;
+  position: fixed;
+  z-index: 300;
+  margin-left: 80%;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+  font-family: 'tahoma';
+  font-size: 12px;
+}
+
+/* message box header styles*/
+
+.msg-wgt-header {
+  background-color: #6D84B4;
+  border: 1px solid rgba(0, 39, 121, 0.76);
+  color: white;
+  text-align: center;
+  height: 28px;
+}
+
+.msg-wgt-header a {
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+  vertical-align: middle;
+}
+
+/* message box body styles*/
+
+.msg-wgt-body {
+  height: 300px;
+  overflow-y: scroll;
+}
+
+.msg-wgt-body table {
+  width: 100%;
+}
+
+.msg-row-container {
+  border-bottom: 1px solid lightgray;
+}
+
+.msg-row-container td {
+  border-bottom: 1px solid lightgray;
+  padding: 3px 0 3px 2px;
+}
+
+.msg-row {
+  width: 100%;
+}
+
+.message {
+  margin-left: 40px;
+}
+
+/* Message box footer styles*/
+
+.msg-wgt-footer {
+  height: 50px;
+}
+
+.msg-wgt-footer textarea {
+  width: 95%;
+  font-family: 'tahoma';
+  font-size: 13px;
+  padding: 5px;
+}
+
+.user-label {
+  font-size: 11px;
+}
+
+.msg-time {
+  font-size: 10px;
+  float: right;
+  color: gray;
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+  float: left;
+  background: url('/assets/chat_avatar.png');
+  border: 1px solid lightgray;
+}
